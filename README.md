@@ -1,3 +1,3 @@
-# myZoom
+# ChattingRoom
 
-Zoom Clone using NodeJS, WebRTC and Websockets
+ChattingRoom program using NodeJS, WebRTC and Websockets(socket.io)
